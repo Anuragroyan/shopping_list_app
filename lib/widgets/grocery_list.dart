@@ -28,7 +28,13 @@ class _GroceryListState extends State<GroceryList> {
 
   void _removeItem(GroceryItem item) {
     setState(() {
-      _groceryItems.remove(item);
+      final isremoved = _groceryItems.remove(item);
+      ScaffoldMessenger.of(context).clearSnackBars();
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text(isremoved ? 'Items is removed from the list.' : ''),
+        ),
+      );
     });
   }
 

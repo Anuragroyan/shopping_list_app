@@ -25,7 +25,7 @@ final groceryItems = [
       category: categories[Categories.carbs]!),
   GroceryItem(
       id: 'e',
-      name: 'Red lentils',
+      name: 'Red chilli',
       quantity: 100,
       category: categories[Categories.spices]!),
   GroceryItem(

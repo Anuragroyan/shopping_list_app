@@ -1,16 +1,14 @@
 # shopping_list_app
 
-A new Flutter project.
+![alt text](Screenshot_20240915-190019.jpg) 
+![alt text](Screenshot_20240915-184439.jpg) 
+![alt text](Screenshot_20240915-184444.jpg) 
+![alt text](Screenshot_20240915-184729.jpg) 
+![alt text](Screenshot_20240915-184751.jpg) 
+![alt text](Screenshot_20240915-184755.jpg) 
+![alt text](Screenshot_20240915-184801.jpg) 
+![alt text](Screenshot_20240915-184810.jpg) 
+![alt text](Screenshot_20240915-184826.jpg) 
+![alt text](Screenshot_20240915-184854.jpg) 
+![alt text](Screenshot_20240915-185954.jpg)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.

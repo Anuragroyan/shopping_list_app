@@ -1,4 +1,7 @@
-# 🛒 Shopping Cart App is a Flutter application that demonstrates a shopping cart workflow using JSON-based dummy data. It includes product management, cart operations, form validation, and CRUD functionality, providing a practical example of handling local data and user interactions in Flutter.
+# 🛒 Shopping Cart App
+
+# Shopping Cart App is a Flutter application that demonstrates a shopping cart workflow using JSON-based dummy data. It includes product management, cart operations, form validation, 
+and CRUD functionality, providing a practical example of handling local data and user interactions in Flutter.
 
 🚀 Getting Started
 
